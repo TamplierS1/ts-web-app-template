@@ -1,0 +1,6 @@
+@import url("font.css");
+
+html {
+    max-width: 600px;
+    margin: 0 auto;
+}
